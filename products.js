@@ -55,7 +55,8 @@ const allProducts = [
         reviews: 54,
         category: "cleanser",
         image: "assets/img/skin4.jpg",
-        description: "Gentle exfoliation with natural AHAs to refine pores and smooth skin texture."
+        description: "Gentle exfoliation with natural AHAs to refine pores and smooth skin texture.",
+        badge: "New"
     },
     {
         id: 6,
@@ -65,7 +66,8 @@ const allProducts = [
         reviews: 88,
         category: "moisturizer",
         image: "assets/img/skin4.jpg",
-        description: "Reduces fine lines and dark circles with peptides and caffeine for a refreshed look."
+        description: "Reduces fine lines and dark circles with peptides and caffeine for a refreshed look.",
+         badge: "New"
     },
     {
         id: 7,
