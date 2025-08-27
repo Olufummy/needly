@@ -245,6 +245,8 @@ section {
     min-height: 10px;
     position: relative;
     margin-top: 10px;
+    border-radius: 20px;
+    overflow: hidden;
 }
 
 .hero-slider {
@@ -465,6 +467,7 @@ section {
 .about {
     background-color: var(--primary-color);
     color: var(--white);
+    border-radius: 200px;
 }
 
 .about .container {
